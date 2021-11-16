@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="9A09648C51591432AF71ADBF053D005CED46C322">
+
+  <entryPoint>app3</entryPoint>
+
+  <name>app3</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2021a)</createdByMATLABRelease>
+
+  <GUID>bcc3df72-c72c-4013-8699-c56e4bd9771f</GUID>
+
+  <supportedPlatforms/>
+
+  <requiredProducts/>
+
+  <numFiles>3</numFiles>
+
+  <created>2021-06-22T14:44:44Z</created>
+
+  <appEntries>
+    <appFile>/mapping.m</appFile>
+    <appFile>/apps/app3.mlapp</appFile>
+    <appFile>/path_cal.m</appFile>
+  </appEntries>
+
+</appProperties>
